@@ -1,0 +1,116 @@
+/*body*/
+/**/
+
+/*Header*/
+
+.header{
+    border: 2px solid black;  
+}
+
+.header h1{
+    font-size: 60px;
+    color: #780000;
+    font-family:monospace;
+}
+
+/* 
+.color1{
+    background-color: black;
+}
+
+.color2{
+    background-color: white;
+}
+
+.color3{
+    background-color: #780000;
+} */
+
+header nav{
+    border-color: #b9b9b9;
+    background-color: #F8F8F8;
+}
+
+header li{
+    list-style-type:none;
+
+}
+
+header a{
+    color: #780000;
+    font-size: 20px;
+}
+
+
+/**/
+
+/*main*/
+
+main h1{
+    font-size: 50px;
+    padding: 10px;
+}
+
+h2{
+    padding: 10px;
+}
+
+h3{
+    padding: 10px;
+}
+
+p{
+    padding: 10px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+pre{
+    font-size: 14px;
+}
+
+aside{
+    padding: 10px;
+    font-size: 18px;
+}
+
+dl{
+    padding-left: 80px;
+}
+/**/
+
+/*Footer*/
+
+footer nav{
+    border-bottom: 2px solid;
+    border-top: 2px solid;
+    border-color: #b9b9b9;
+    background-color: #F8F8F8;
+}
+
+footer li{
+    list-style-type:none;
+
+}
+
+footer a{
+    color: #780000;
+    font-size: 20px;
+}
+
+/**/
+
+/*Index*/
+/**/
+
+/*Min computer*/
+/**/
+
+/*operativsystemer*/
+/**/
+
+/*komponenter*/
+/**/
+
+/*galleri*/
+/**/
